@@ -6,7 +6,7 @@ on:
 
 env:
   # renovate: datasource=github-releases depName=decke/smtprelay
-  SMTPRELAY_VERSION: 1.7.0
+  SMTPRELAY_VERSION: 1.10.0
 
 jobs:
   docker_release:
